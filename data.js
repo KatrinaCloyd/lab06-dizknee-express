@@ -29,7 +29,7 @@ const characters = [
         movie: 'The Little Mermaid',
         movie_year: 1989,
         hand_drawn: true,
-        image: 'https://static.wikia.nocookie.net/disneyprincess/images/1/12/Ursula.jpg/revision/latest/top-crop/width/360/height/450?cb=20130102194736',
+        image: 'https://data.junkee.com/wp-content/uploads/2019/06/ursula-resized.jpg',
         gif: 'https://i.imgur.com/3sTt25z.gif'
     },
     {
@@ -51,7 +51,7 @@ const characters = [
         movie: 'Snow White and the Seven Dwarfs',
         movie_year: 1938,
         hand_drawn: true,
-        image: 'https://static.wikia.nocookie.net/disney/images/8/89/Profile_-_The_Evil_Queen.jpeg/revision/latest?cb=20190312020700',
+        image: 'https://fangirlish.com/wp-content/uploads/2020/04/The-Evil-Queen.jpg',
         gif: 'https://i.pinimg.com/originals/0f/47/f8/0f47f8e27714ad84e087bbfd3ec5e45e.gif'
     },
     {
@@ -73,7 +73,7 @@ const characters = [
         movie: 'Pocahontas',
         movie_year: 1995,
         hand_drawn: true,
-        image: 'https://static.wikia.nocookie.net/disney/images/4/42/Pocahontas-disneyscreencaps.com-1008.jpg/revision/latest/top-crop/width/300/height/300?cb=20121026213044',
+        image: 'http://images2.fanpop.com/image/polls/285000/285722_1277148162269_full.jpg',
         gif: 'https://i.pinimg.com/originals/f1/2b/62/f12b62979660b9daabac55ee16abd056.gif'
     },
     {
@@ -95,8 +95,19 @@ const characters = [
         movie: 'Sleeping Beauty',
         movie_year: 1959,
         hand_drawn: true,
-        image: 'https://static.wikia.nocookie.net/disney/images/0/05/Profile_-_Maleficent.jpeg/revision/latest?cb=20190312020410',
+        image: 'https://i.pinimg.com/originals/40/fc/aa/40fcaa34e1d98ebb4c9afa1ba0f1a772.png',
         gif: 'https://i.pinimg.com/originals/c2/ca/5b/c2ca5ba29bb47984ed28948850ed6d49.gif'
+    },
+    {
+        name: 'Judy Hopps',
+        species: 'talking animal',
+        role: 'hero',
+        unique_power: 'super hops',
+        movie: 'Zootopia',
+        movie_year: 2016,
+        hand_drawn: false,
+        image: 'https://static.wikia.nocookie.net/disney/images/d/da/Profile_-_Judy_Hopps.jpeg',
+        gif: 'https://media.tenor.com/images/706d4159ab2f186d179bfa18dd32080f/tenor.gif'
     },
 ];
 
