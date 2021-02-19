@@ -18,7 +18,7 @@ const characters = [
         movie: 'The Emperor\'s New Groove',
         movie_year: 2000,
         hand_drawn: true,
-        image: 'https://static.wikia.nocookie.net/empeorsneworld/images/4/41/Groove01.jpg/revision/latest/scale-to-width-down/340?cb=20111024004704',
+        image: 'https://static.wikia.nocookie.net/empeorsneworld/images/4/41/Groove01.jpg',
         gif: 'https://media.tenor.com/images/519ee2db89b1c76456792e265536d24f/tenor.gif'
     },
     {
